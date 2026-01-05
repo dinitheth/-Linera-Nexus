@@ -1,0 +1,5 @@
+{
+  "name": "Linera Nexus",
+  "description": "A Microchain-Native Agentic AI DApp interface for the Linera protocol, featuring real-time AI intent parsing, microchain visualization, and wallet management.",
+  "requestFramePermissions": []
+}
